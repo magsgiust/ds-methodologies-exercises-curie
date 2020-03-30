@@ -8,3 +8,6 @@ This repository holds exercises, notes, and solutions, to share with the Curie C
 - Regression
 - Classification
 - Clustering
+- Time Series Analysis
+- Anomaly Detection
+- NLP
